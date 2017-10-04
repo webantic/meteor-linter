@@ -1,9 +1,9 @@
 Package.describe({
   name: 'webantic:linter',
-  version: '0.2.1',
+  version: '1.0.1',
   summary: 'A linter for eslint',
   git: 'https://github.com/webantic/meteor-linter',
-  documentation: null
+  documentation: 'README.md'
 })
 
 Package.registerBuildPlugin({
